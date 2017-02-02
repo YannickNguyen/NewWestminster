@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">New Westminster</string>
+
+    <string-array name="Schools">
+        <item>School1</item>
+        <item>School2</item>
+        <item>School3</item>
+        <item>School4</item>
+        <item>School5</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+</resources>
